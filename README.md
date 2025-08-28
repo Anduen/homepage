@@ -1,84 +1,44 @@
-# Welcome to React Router!
+# 🕶️ Portfolio Homepage
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Welcome to the repo for my personal portfolio site.  
+Think of it as my little corner of the internet — the place where projects, experiments, and ideas will eventually live.
 
-## Features
-
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
-
-## Getting Started
-
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+Right now? ... ahem - work in progress.
 
 ---
 
-Built with ❤️ using React Router.
+## ⚡ Tech Stack
+
+- **React + Remix Router** → the brain
+- **Tailwind CSS** → the style
+- **Framer Motion** → the fancy animations
+
+---
+
+## 📌 Current Progress
+
+- [x] Built the skeleton
+- [ ] Fill it with actual projects (patience, we’ll get there)
+- [ ] (?) Make it so smooth you won’t want to leave (Did it work? Was it smooth enough? Feel free to check this yourself)
+
+---
+
+## 🖤 Why this matters
+
+This isn’t just a portfolio — it’s a _statement_.  
+A showcase of what I can build, how I think, and how much fun I can have with code.
+
+---
+
+## 🔮 Coming Soon
+
+Cool projects.  
+Slick animations.
+
+Stay tuned.
+
+---
+
+## 📄 License
+
+MIT — take a peek, break it, remix it.
